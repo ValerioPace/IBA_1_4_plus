@@ -1,0 +1,4 @@
+.table > tbody > tr.info td {
+  background-color:#123456;
+  font-weight: bold;
+}
